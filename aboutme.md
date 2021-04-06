@@ -13,6 +13,7 @@ My family is my greatest passion, followed by my career and other hobbies. I hav
 
 **Graduate**: Kellogg, MBAi, 2022 _(Joint Degree between Kellogg School of Management and McCormick Engineering School)_
 
+
 **Job 1**: ZS Associates, Strategy Associate, 2017-2019, Evanston IL and Princeton NJ
 
 **Job 2**: Podium, Strategy Associate, 2019-2021, Lehi UT
