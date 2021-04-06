@@ -3,7 +3,7 @@ layout: page
 title: Summary
 ---
 
-Hello! Thank you for visiting my site. My name is Taylor Baker. I grew up mountain biking, hiking, rock climbing, and snowboarding in Utah, and have a passion for the outdoors. I am passionate about healthcare, social impact, and technology, and am always pushing myself to develop new interests and skills. 
+Hello! Thank you for visiting my site. My name is Taylor Baker. I grew up mountain biking, hiking, rock climbing, and snowboarding in Utah, and have a passion for the outdoors. I am interested in healthcare, social impact, and technology, and am always pushing myself to develop new interests and skills. 
 
 My family is my greatest passion, followed by my career and other hobbies. I have two kids who bring me ultimate joy. 
 
