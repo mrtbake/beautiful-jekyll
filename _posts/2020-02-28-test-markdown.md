@@ -22,6 +22,10 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+Here is an R Chart: 
+
+https://rpubs.com/mrtbake/AUSxVert
+
 Here's a code chunk:
 
 ~~~
