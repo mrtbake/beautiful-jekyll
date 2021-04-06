@@ -7,13 +7,15 @@ Hello! Thank you for visiting my site. My name is Taylor Baker. I grew up mounta
 
 My family is my greatest passion, followed by my career and other hobbies. I have two kids who bring me ultimate joy. 
 
-### Education and Career
+### Education
 
 **Undergrad**: BYU, B.S. in Economics, Minor in Business, 2017
 
 **Graduate**: Kellogg, MBAi, 2022 _(Joint Degree between Kellogg School of Management and McCormick Engineering School)_
 
 ---
+
+### Career
 
 **Job 1**: ZS Associates, Strategy Associate, 2017-2019, Evanston IL and Princeton NJ
 
