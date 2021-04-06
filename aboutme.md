@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Summary
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! Thank you for visiting my site. My name is Taylor Baker. I grew up mountain biking, hiking, rock climbing, and snowboarding in Utah, and have a passion for the outdoors. I am passionate about healthcare, social impact, and technology, and am always pushing myself to develop new interests and skills. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My family is my greatest passion, followed by my career and other hobbies. I have two kids who bring me ultimate joy. 
 
-What else do you need?
+### Education and Career
 
-### My story
+**Undergrad**: BYU, B.S. in Economics, Minor in Business, 2017
+**Graduate**: Kellogg, MBAi, 2022 _(Joint Degree between Kellogg School of Management and McCormick Engineering School)_
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Job 1**: ZS Associates, Strategy Associate, 2017-2019, Evanston IL and Princeton NJ
+**Job 2**: Podium, Strategy Associate, 2019-2021, Lehi UT
+**Job 3**: TBD!
+
+
+
